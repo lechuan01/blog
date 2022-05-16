@@ -1,16 +1,15 @@
 ---
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: ""
 comments: false
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Le Minh Chuan. I'm from Phu Yen, Vietnam. I am studying computer science at HCMUT, TP.HCM. I have been Software Development Fresher at Zalo Pay (VNG) from April, 2022. Besides software development, I have some other hobbies like:
+- Reading Book: many genres such as history, novels, philosophy,...
+- Philosophy: philosophy teaches me to understand the world and more than that, understand myself.
+- Playing Video Games: My favorite games are League of Legends, Fifa,...
+- Football: I'm Cules (Barcelona's fan)
+- Movies
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+*You can get my contact and opensource of my projects on Github at the bottom of the page.
+{{< figure thumb="" link="/img/hometown.jpg" >}}
