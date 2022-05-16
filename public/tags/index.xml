@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Le Chuan</title>
+    <link>https://lechuan01.github.io/tags/</link>
+    <description>Recent content in Tags on Le Chuan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>lechuan2001@gmail.com (Le Chuan)</managingEditor>
+    <webMaster>lechuan2001@gmail.com (Le Chuan)</webMaster><atom:link href="https://lechuan01.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
