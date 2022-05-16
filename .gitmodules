@@ -2,7 +2,4 @@
 	path = soure/lechuan01.github.io
 	url = https://github.com/lechuan01/lechuan01.github.io.git
 	branch = main
-[submodule "soure/public"]
-	path = soure/public
-	url = https://github.com/lechuan01/lechuan01.github.io.git
-	branch = main
+
